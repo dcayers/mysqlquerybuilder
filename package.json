@@ -1,0 +1,21 @@
+{
+  "name": "dewaun",
+  "version": "1.0.0",
+  "description": "query string builder for mysql",
+  "main": "querybuilder.es6.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "Dewaun Ayers",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "sqlstring": "^2.3.0"
+  }
+}
